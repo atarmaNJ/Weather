@@ -64,6 +64,13 @@ header a.active {
   .header-right {
     float: none;
   }
+  input{
+    display: block;
+    margin-bottom: 15px;
+  }
+ button{
+   margin-left: 20px;
+ } 
 }
 footer{
     background-color: black;
